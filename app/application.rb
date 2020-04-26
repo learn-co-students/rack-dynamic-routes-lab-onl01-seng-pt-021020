@@ -23,5 +23,7 @@ class Application
       end
   
       resp.finish
+      binding.pry
     end
+
   end
